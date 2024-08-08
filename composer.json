@@ -1,12 +1,12 @@
 {
-    "name": "ze-e/google-doc-uploader",
-    "description": "uploads a google doc to wordpress",
+    "name": "ze-e/doc-uploader",
+    "description": "uploads a doc to wordpress",
     "require": {
         "phpoffice/phpword": "^1.2"
     },
     "autoload": {
         "psr-4": {
-            "ZeE\\GoogleDocUploader\\": "src/"
+            "ZeE\\DocUploader\\": "src/"
         }
     },
     "authors": [
